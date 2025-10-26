@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=1F2937&height=250&text=Software%20Developer&fontSize=70&fontColor=ffffff&fontAlign=50&section=header&animation=fadeIn)
----
+
 
 ## 👨‍💻 About Me
 
@@ -13,15 +13,16 @@
 
 ### 🌟 Team Projects
 
-- [**ParkingManagementSystem**](https://github.com/lms2002/ParkingManagementSystem) : 🚗 C# .NET Framework 기반 주차 관리 시스템
-- [**OOSASD**](https://github.com/hyunkyumlee/OOSASD) : 💡 객체지향 프로그래밍 (계획-설계 프로젝트)
--  [**Coala**](https://github.com/HeeJun021/Coala) : 📚 학습 사이트 (졸업작품 우수 프로젝트)
-- [**break**](https://github.com/lm2002/break) : 🏋️‍♂️ 운동 안드로이드 앱 (융합 프로젝트)
+[**ParkingManagementSystem**](https://github.com/lms2002/ParkingManagementSystem) : C# .NET Framework 기반 주차 관리 시스템 <br>
+[**OOSASD**](https://github.com/hyunkyumlee/OOSASD) : 객체지향 프로그래밍 (계획-설계 프로젝트) <br>
+[**Coala**](https://github.com/HeeJun021/Coala) : 학습 사이트 (졸업작품 우수 프로젝트) <br>
+[**break**](https://github.com/lm2002/break) : 🏋운동 안드로이드 앱 (융합 프로젝트)
   
+<br/>
 <br/>
 
 ### ✨ Side Projects
-- [**responsive-website**](https://github.com/lms2002/responsive-website) : 🌐 반응형 웹사이트 (Com on 동아리)
+[**responsive-website**](https://github.com/lms2002/responsive-website) : 🌐 반응형 웹사이트 (Com on 동아리)
 
 <br>
 <br>
@@ -30,8 +31,8 @@
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lms2002&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2002&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=lms2002&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lms2002&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 <br/>
 
@@ -91,7 +92,7 @@
 
 # 📬 Connect with Me
 
-<a href="mailto:022lm@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:022lm@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 <br/>
 <br/>
 </div>
