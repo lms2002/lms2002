@@ -17,15 +17,15 @@
 ### 🌟 Team Projects
 | Project | Description |
 |----------|--------------|
-| [**ParkingManagementSystem**](https://github.com/lms2002/ParkingManagementSystem) | C# .NET Framework 기반 **주차 관리 시스템** |
 | [**OOSASD**](https://github.com/hyunkyumlee/OOSASD) | 객체지향 프로그래밍 **계획-설계 프로젝트** |
-| [**Coala**](https://github.com/HeeJun021/Coala) | 학습 사이트 (**졸업작품 우수 프로젝트**) |
+| [**Coala**](https://github.com/HeeJun021/Coala) | 학습 사이트 (**졸업작품 프로젝트**) |
 | [**break**](https://github.com/lms2002/break) | Kotlin 기반 **운동 안드로이드 앱** (융합 프로젝트) |
 
 ### ✨ Side Projects
 | Project | Description |
 |----------|--------------|
-| [**responsive-website**](https://github.com/lms2002/responsive-website) | 🌐 반응형 웹사이트 (Com on 동아리) |
+| [**ParkingManagementSystem**](https://github.com/lms2002/ParkingManagementSystem) | C# .NET Framework 기반 **주차 관리 시스템** |
+| [**responsive-website**](https://github.com/lms2002/responsive-website) | 반응형 웹사이트 (Com on 동아리) |
 
 ---
 
